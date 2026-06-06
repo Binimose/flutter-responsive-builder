@@ -17,3 +17,4 @@
 - **[2026-06-05 14:07:28]** (15) feat(layout): implement adaptive grid builder for tablet screens
 - **[2026-06-05 17:24:51]** (16) ui(navigation): switch bottom nav to navigation rail on desktop
 - **[2026-06-06 10:57:18]** (17) fix(overflow): prevent text overflow on compact mobile devices
+- **[2026-06-06 13:14:41]** (18) perf(rebuild): prevent layout re-renders on keyboard open
