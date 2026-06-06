@@ -19,3 +19,4 @@
 - **[2026-06-06 10:57:18]** (17) fix(overflow): prevent text overflow on compact mobile devices
 - **[2026-06-06 13:14:41]** (18) perf(rebuild): prevent layout re-renders on keyboard open
 - **[2026-06-06 16:31:04]** (19) test(breakpoints): add responsive layout unit tests
+- **[2026-06-06 19:48:27]** (20) style(typography): dynamic scale font sizes based on DPI
