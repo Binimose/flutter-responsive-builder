@@ -48,3 +48,4 @@
 - **[2026-06-14 16:27:48]** (46) perf(rebuild): prevent layout re-renders on keyboard open
 - **[2026-06-15 11:00:15]** (47) test(breakpoints): add responsive layout unit tests
 - **[2026-06-15 14:17:38]** (48) style(typography): dynamic scale font sizes based on DPI
+- **[2026-06-15 17:34:01]** (49) docs(guide): provide multi-screen layout guideline handbook
