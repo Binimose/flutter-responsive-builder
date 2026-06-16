@@ -51,3 +51,4 @@
 - **[2026-06-15 17:34:01]** (49) docs(guide): provide multi-screen layout guideline handbook
 - **[2026-06-15 20:51:24]** (50) feat(layout): implement adaptive grid builder for tablet screens
 - **[2026-06-16 10:07:28]** (51) ui(navigation): switch bottom nav to navigation rail on desktop
+- **[2026-06-16 13:24:51]** (52) fix(overflow): prevent text overflow on compact mobile devices
