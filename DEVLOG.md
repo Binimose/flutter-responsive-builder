@@ -53,3 +53,4 @@
 - **[2026-06-16 10:07:28]** (51) ui(navigation): switch bottom nav to navigation rail on desktop
 - **[2026-06-16 13:24:51]** (52) fix(overflow): prevent text overflow on compact mobile devices
 - **[2026-06-16 16:41:14]** (53) perf(rebuild): prevent layout re-renders on keyboard open
+- **[2026-06-17 11:14:41]** (54) test(breakpoints): add responsive layout unit tests
