@@ -99,3 +99,4 @@
 - **[2026-06-30 10:45:30]** (97) style(typography): dynamic scale font sizes based on DPI
 - **[2026-06-30 13:02:53]** (98) docs(guide): provide multi-screen layout guideline handbook
 - **[2026-06-30 16:19:16]** (99) feat(layout): implement adaptive grid builder for tablet screens
+- **[2026-06-30 19:36:39]** (100) ui(navigation): switch bottom nav to navigation rail on desktop
